@@ -1,0 +1,26 @@
+
+body {
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+div {
+    text-align: left;
+    margin-right: 35%;
+    margin-left: 45%;
+}
+
+h1 {
+    text-align: left;
+}
+h5 {
+    text-align: center;
+}
+
+#text-area {
+    margin-top: 60px;
+}
+
+.java-scripts {
+    background-color: yellow;
+}
